@@ -8,4 +8,6 @@ to run
 
 **uvicorn --reload cowry_rise:app**
 
-call the endpoint using *http://127.0.0.1:8000/cowry/*
+call the endpoint using  **POST /cowry/**
+
+sample call *http://127.0.0.1:8000/cowry/*
