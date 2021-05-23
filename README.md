@@ -6,7 +6,7 @@ to run
 
 *pip install -r requirements.txt*
 
-**uvicorn --reload cowry_rise:app**
+**uvicorn --reload cowry_wisee:app**
 
 call the endpoint using  **POST /cowry/**
 
