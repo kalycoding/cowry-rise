@@ -1,5 +1,5 @@
 # cowry-rise
-CowryRise Simple API
+CowryRise Simple API using fastapi
 
 
 to run
