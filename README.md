@@ -2,7 +2,7 @@
 CowryWise Simple API using fastapi.
 
 
-to run
+to run it
 
 *pip install -r requirements.txt*
 
